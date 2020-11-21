@@ -1,0 +1,77 @@
+$primarycolor: red;
+$fontsize: 20px;
+$secondarycolor: blue;
+$float: left;
+
+
+.authbody{
+    color: $primarycolor;
+    width: 100%;
+    height: 100%;
+    background-image: url('https://i1.sndcdn.com/artworks-000114070423-nalmqr-t500x500.jpg');
+}
+.text{
+    color:$primarycolor;
+}
+.button1{
+    transition-duration: 0.4s;
+    box-shadow: 0 9px #999;
+}
+.button1:hover{
+    background-color:$primarycolor;
+    color: white;
+}
+.button1:active{
+    background-color:$primarycolor;
+    box-shadow: 0 5px #666;
+    transform: translate(4px);
+}
+.button2{
+    transition-duration: 0.4s;
+    box-shadow: 0 9px #999;
+}
+.button2:hover{
+    background-color:$primarycolor;
+    color: white;
+}
+.button2:active{
+    background-color:$primarycolor;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}
+/* Iphone x responsive */
+@media(min-width:312px) and (max-width: 375px){
+    .authbody{
+        color: $primarycolor;
+        width: 100vw;
+        height: 100vh;
+    }
+    .text3{
+        font-size: $fontsize;
+        float: $float;
+        width: 75%;
+        color: $primarycolor;
+    }
+    .text1{
+        font-size: $fontsize;
+        float: $float;
+        color: $primarycolor;
+    }
+    .tentacion{
+        width: 100vw;
+        height: 75vh;
+    }
+}
+//ipad responsive
+@media(min-width: 768px) and (max-width: 1024px){
+    .authbody{
+        color:$secondarycolor;
+        width: 100vw;
+        height: 100vh;
+    }
+    .tentacion{
+        width: 100vw;
+        height: 75vh;
+    }
+}
+

@@ -1,0 +1,433 @@
+$border:5px solid purple;
+$display: flex;
+$wrap: wrap;
+$allign: center;
+$justify: space-evenly;
+$height: 15vh;
+$width:20vh;
+$margin:o auto;
+$primarycolor:purple;
+$weight:700;
+$size: 40px;
+$image: url('https://tse3.mm.bing.net/th?id=OIP.fRcj2VCwriUiwkckjWtluAHaEK&pid=Api&P=0&w=309&h=174');
+
+.section{
+    background-image: $image;
+}
+.username1{
+    color: $primarycolor;
+}
+.section1{
+    border: $border;
+    display: $display;
+    flex-wrap: $wrap;
+    align-content: $allign;
+    justify-content: $justify;
+    color:$primarycolor;
+    font-size: $size;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image:$image;
+    font-weight: $weight;
+    .tightrope{
+        height: $height;
+        width: $width;
+        margin: $margin;
+    }
+    .flores{
+        height: $height;
+        width: $width;
+        margin: $margin;
+       
+    }
+}
+.section2{
+    border: $border;
+    display:  $display;
+    flex-wrap: $wrap;
+    align-content: $allign;
+    justify-content: $justify;
+    color:$primarycolor;
+    background-image:$image;
+    font-weight: $weight;
+    font-size: $size;
+    .revenge{
+        height: $height;
+        width: $width;
+        margin: $margin;
+    }
+    .afraid{
+        height: $height;
+        width: $width;
+        margin: $margin;
+    
+    }
+
+
+
+}
+.section3{
+    border: $border;
+    display:  $display;
+    flex-wrap: $wrap;
+    align-content: $allign;
+    justify-content: $justify;
+    color:$primarycolor;
+    background-image:$image;
+    font-weight: $weight;
+    font-size: $size;
+    .angel{
+        height: $height;
+        width: $width;
+        margin: $margin;
+    
+    }
+    .manikin{
+        height: $height;
+        width: $width;
+        margin: $margin;
+    }
+
+
+
+}
+.section4{
+    border: $border;
+    display:  $display;
+    flex-wrap: $wrap;
+    align-content: $allign;
+    justify-content: $justify;
+    color:$primarycolor;
+    background-image:$image;
+    font-weight: $weight;
+    font-size: $size;
+    .stop{
+        height: $height;
+        width: $width;
+        margin: $margin;
+    }
+    .never{
+        height: $height;
+        width: $width;
+        margin: $margin;
+    }
+
+    
+
+}
+.section5{
+    border: $border;
+    display:  $display;
+    flex-wrap: $wrap;
+    align-content: $allign;
+    justify-content: $justify;
+    color:$primarycolor;
+    background-image:$image;
+    font-weight: $weight;
+    font-size: $size;
+    .vs{
+        height: $height;
+        width: $width;
+        margin: $margin;
+    }
+    .broly{
+        height: $height;
+        width: $width;
+        margin: $margin;
+    }
+
+
+}
+
+
+
+
+
+@media(min-width:312px) and (max-width: 812px){
+    $primarycolor: blue;
+    $size: 15px;
+
+    .section{
+        background-image: url('https://tse3.mm.bing.net/th?id=OIP.fRcj2VCwriUiwkckjWtluAHaEK&pid=Api&P=0&w=309&h=174');
+    }
+    .username1{
+        color: $primarycolor;
+    }
+    .section1{
+        border: $border;
+        display: $display;
+        flex-wrap: $wrap;
+        align-content: $allign;
+        justify-content: $justify;
+        color:$primarycolor;
+        font-size: $size;
+        font-family: Arial, Helvetica, sans-serif;
+        background-image:$image;
+        font-weight: $weight;
+        .tightrope{
+            height: $height;
+            width: $width;
+            margin: $margin;
+        }
+        .flores{
+            height: $height;
+            width: $width;
+            margin: $margin;
+           
+        }
+    }
+    .section2{
+        border: $border;
+        display:  $display;
+        flex-wrap: $wrap;
+        align-content: $allign;
+        justify-content: $justify;
+        color:$primarycolor;
+        background-image:$image;
+        font-weight: $weight;
+        font-size: $size;
+        .revenge{
+            height: $height;
+            width: $width;
+            margin: $margin;
+        }
+        .afraid{
+            height: $height;
+            width: $width;
+            margin: $margin;
+        
+    
+    
+    }
+    .section3{
+        border: $border;
+        display:  $display;
+        flex-wrap: $wrap;
+        align-content: $allign;
+        justify-content: $justify;
+        color:$primarycolor;
+        background-image:$image;
+        font-weight: $weight;
+        font-size: $size;
+        .angel{
+            height: $height;
+            width: $width;
+            margin: $margin;
+        
+        }
+        .manikin{
+            height: $height;
+            width: $width;
+            margin: $margin;
+        }
+    
+    
+    
+    }
+    .section4{
+        border: $border;
+        display:  $display;
+        flex-wrap: $wrap;
+        align-content: $allign;
+        justify-content: $justify;
+        color:$primarycolor;
+        background-image:$image;
+        font-weight: $weight;
+        font-size: $size;
+        .stop{
+            height: $height;
+            width: $width;
+            margin: $margin;
+        }
+        .never{
+            height: $height;
+            width: $width;
+            margin: $margin;
+        }
+    
+        
+    
+    }
+    .section5{
+        border: $border;
+        display:  $display;
+        flex-wrap: $wrap;
+        align-content: $allign;
+        justify-content: $justify;
+        color:$primarycolor;
+        background-image:$image;
+        font-weight: $weight;
+        font-size: $size;
+        .vs{
+            height: $height;
+            width: $width;
+            margin: $margin;
+        }
+        .broly{
+            height: $height;
+            width: $width;
+            margin: $margin;
+        }
+    
+    
+    
+    }
+
+
+    }
+
+
+
+
+}
+@media(min-width:768px) and (max-width:1024px){
+    $primarycolor:red;
+    $size:15px;
+    $border:5px solid purple;
+    $display: flex;
+    $wrap: wrap;
+    $allign: center;
+    $justify: space-evenly;
+    $height: 18.5vh;
+    $width:10vh;
+    $margin:o auto;
+
+
+    .section{
+        background-image: url('https://tse3.mm.bing.net/th?id=OIP.fRcj2VCwriUiwkckjWtluAHaEK&pid=Api&P=0&w=309&h=174');
+    }
+    .username1{
+        color: $primarycolor;
+        float: left;
+        font-size: 6.9px;
+    }
+    .section1{
+        border: $border;
+        display: $display;
+        flex-wrap: $wrap;
+        align-content: $allign;
+        justify-content: $justify;
+        color:$primarycolor;
+        font-size: $size;
+        font-family: Arial, Helvetica, sans-serif;
+        background-image:$image;
+        font-weight: $weight;
+        columns: auto;
+        .tightrope{
+            height: $height;
+            width: $width;
+            margin: $margin;
+        }
+        .flores{
+            height: $height;
+            width: $width;
+            margin: $margin;
+    }
+}
+    .section2{
+        border: $border;
+        display:  $display;
+        flex-wrap: $wrap;
+        align-content: $allign;
+        justify-content: $justify;
+        color:$primarycolor;
+        background-image:$image;
+        font-weight: $weight;
+        font-size: $size;
+        .revenge{
+            height: $height;
+            width: $width;
+            margin: $margin;
+        }
+        .afraid{
+            height: $height;
+            width: $width;
+            margin: $margin;
+        
+        }
+    
+    
+    
+    }
+    .section3{
+        border: $border;
+        display:  $display;
+        flex-wrap: $wrap;
+        align-content: $allign;
+        justify-content: $justify;
+        color:$primarycolor;
+        background-image:$image;
+        font-weight: $weight;
+        font-size: $size;
+        .angel{
+            height: $height;
+            width: $width;
+            margin: $margin;
+        
+        }
+        .manikin{
+            height: $height;
+            width: $width;
+            margin: $margin;
+        }
+    
+    
+    
+    }
+    .section4{
+        border: $border;
+        display:  $display;
+        flex-wrap: $wrap;
+        align-content: $allign;
+        justify-content: $justify;
+        color:$primarycolor;
+        background-image:$image;
+        font-weight: $weight;
+        font-size: $size;
+        .stop{
+            height: $height;
+            width: $width;
+            margin: $margin;
+        }
+        .never{
+            height: $height;
+            width: $width;
+            margin: $margin;
+        }
+    
+        
+    
+    }
+    .section5{
+        border: $border;
+        display:  $display;
+        flex-wrap: $wrap;
+        align-content: $allign;
+        justify-content: $justify;
+        color:$primarycolor;
+        background-image:$image;
+        font-weight: $weight;
+        font-size: $size;
+        .vs{
+            height: $height;
+            width: $width;
+            margin: $margin;
+        }
+        .broly{
+            height: $height;
+            width: $width;
+            margin: $margin;
+        }
+    
+    
+    
+    
+    
+    
+    }
+
+       
+    }
+
+
+
+

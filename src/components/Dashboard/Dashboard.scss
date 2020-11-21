@@ -1,0 +1,66 @@
+$leftfloat: left;
+$primarycolor: red;
+$secondarycolor: blue;
+$thirdcolor: green;
+
+.username{
+    float: $leftfloat;
+    color: $primarycolor;
+}
+.button3{
+    float: right;
+    color:$primarycolor;
+}
+.button4{
+    float: right;
+    color:$primarycolor;
+}
+.bluex{
+    height: 50vh;
+}
+.Body{
+    background-image: url('https://i1.sndcdn.com/artworks-000151617657-vg40w5-t500x500.jpg');
+    height: 100vh;
+}
+.text{
+    color: $primarycolor;
+
+}
+@media(min-width: 375px) and (max-width: 812px){
+    
+    .username{
+        color: $secondarycolor;
+    }
+    .button3{
+        color: $secondarycolor;
+    }
+    .button4{
+        color: $secondarycolor;
+    }
+    .bluex{
+        height: 25vh;
+    }
+    .text{
+        color: wheat;
+    }
+
+}
+@media(min-width:768px) and (max-width:1024px){
+    .username{
+        color: $thirdcolor;
+    }
+    .button3{
+        color: $thirdcolor;
+    }
+    .button4{
+        color: $thirdcolor;
+    }
+    .bluex{
+        height: 50vh;
+    }
+    .text{
+        color: red;
+        font-size: 25px;
+    }
+
+}

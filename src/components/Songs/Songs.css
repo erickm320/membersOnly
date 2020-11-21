@@ -1,0 +1,361 @@
+.section {
+  background-image: url("https://tse3.mm.bing.net/th?id=OIP.fRcj2VCwriUiwkckjWtluAHaEK&pid=Api&P=0&w=309&h=174");
+}
+
+.username1 {
+  color: purple;
+}
+
+.section1 {
+  border: 5px solid purple;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+  justify-content: space-evenly;
+  color: purple;
+  font-size: 40px;
+  font-family: Arial, Helvetica, sans-serif;
+  background-image: url("https://tse3.mm.bing.net/th?id=OIP.fRcj2VCwriUiwkckjWtluAHaEK&pid=Api&P=0&w=309&h=174");
+  font-weight: 700;
+}
+.section1 .tightrope {
+  height: 15vh;
+  width: 20vh;
+  margin: o auto;
+}
+.section1 .flores {
+  height: 15vh;
+  width: 20vh;
+  margin: o auto;
+}
+
+.section2 {
+  border: 5px solid purple;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+  justify-content: space-evenly;
+  color: purple;
+  background-image: url("https://tse3.mm.bing.net/th?id=OIP.fRcj2VCwriUiwkckjWtluAHaEK&pid=Api&P=0&w=309&h=174");
+  font-weight: 700;
+  font-size: 40px;
+}
+.section2 .revenge {
+  height: 15vh;
+  width: 20vh;
+  margin: o auto;
+}
+.section2 .afraid {
+  height: 15vh;
+  width: 20vh;
+  margin: o auto;
+}
+
+.section3 {
+  border: 5px solid purple;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+  justify-content: space-evenly;
+  color: purple;
+  background-image: url("https://tse3.mm.bing.net/th?id=OIP.fRcj2VCwriUiwkckjWtluAHaEK&pid=Api&P=0&w=309&h=174");
+  font-weight: 700;
+  font-size: 40px;
+}
+.section3 .angel {
+  height: 15vh;
+  width: 20vh;
+  margin: o auto;
+}
+.section3 .manikin {
+  height: 15vh;
+  width: 20vh;
+  margin: o auto;
+}
+
+.section4 {
+  border: 5px solid purple;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+  justify-content: space-evenly;
+  color: purple;
+  background-image: url("https://tse3.mm.bing.net/th?id=OIP.fRcj2VCwriUiwkckjWtluAHaEK&pid=Api&P=0&w=309&h=174");
+  font-weight: 700;
+  font-size: 40px;
+}
+.section4 .stop {
+  height: 15vh;
+  width: 20vh;
+  margin: o auto;
+}
+.section4 .never {
+  height: 15vh;
+  width: 20vh;
+  margin: o auto;
+}
+
+.section5 {
+  border: 5px solid purple;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+  justify-content: space-evenly;
+  color: purple;
+  background-image: url("https://tse3.mm.bing.net/th?id=OIP.fRcj2VCwriUiwkckjWtluAHaEK&pid=Api&P=0&w=309&h=174");
+  font-weight: 700;
+  font-size: 40px;
+}
+.section5 .vs {
+  height: 15vh;
+  width: 20vh;
+  margin: o auto;
+}
+.section5 .broly {
+  height: 15vh;
+  width: 20vh;
+  margin: o auto;
+}
+
+@media (min-width: 312px) and (max-width: 812px) {
+  .section {
+    background-image: url("https://tse3.mm.bing.net/th?id=OIP.fRcj2VCwriUiwkckjWtluAHaEK&pid=Api&P=0&w=309&h=174");
+  }
+
+  .username1 {
+    color: blue;
+  }
+
+  .section1 {
+    border: 5px solid purple;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: space-evenly;
+    color: blue;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url("https://tse3.mm.bing.net/th?id=OIP.fRcj2VCwriUiwkckjWtluAHaEK&pid=Api&P=0&w=309&h=174");
+    font-weight: 700;
+  }
+  .section1 .tightrope {
+    height: 15vh;
+    width: 20vh;
+    margin: o auto;
+  }
+  .section1 .flores {
+    height: 15vh;
+    width: 20vh;
+    margin: o auto;
+  }
+
+  .section2 {
+    border: 5px solid purple;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: space-evenly;
+    color: blue;
+    background-image: url("https://tse3.mm.bing.net/th?id=OIP.fRcj2VCwriUiwkckjWtluAHaEK&pid=Api&P=0&w=309&h=174");
+    font-weight: 700;
+    font-size: 15px;
+  }
+  .section2 .revenge {
+    height: 15vh;
+    width: 20vh;
+    margin: o auto;
+  }
+  .section2 .afraid {
+    height: 15vh;
+    width: 20vh;
+    margin: o auto;
+  }
+  .section2 .section3 {
+    border: 5px solid purple;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: space-evenly;
+    color: blue;
+    background-image: url("https://tse3.mm.bing.net/th?id=OIP.fRcj2VCwriUiwkckjWtluAHaEK&pid=Api&P=0&w=309&h=174");
+    font-weight: 700;
+    font-size: 15px;
+  }
+  .section2 .section3 .angel {
+    height: 15vh;
+    width: 20vh;
+    margin: o auto;
+  }
+  .section2 .section3 .manikin {
+    height: 15vh;
+    width: 20vh;
+    margin: o auto;
+  }
+  .section2 .section4 {
+    border: 5px solid purple;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: space-evenly;
+    color: blue;
+    background-image: url("https://tse3.mm.bing.net/th?id=OIP.fRcj2VCwriUiwkckjWtluAHaEK&pid=Api&P=0&w=309&h=174");
+    font-weight: 700;
+    font-size: 15px;
+  }
+  .section2 .section4 .stop {
+    height: 15vh;
+    width: 20vh;
+    margin: o auto;
+  }
+  .section2 .section4 .never {
+    height: 15vh;
+    width: 20vh;
+    margin: o auto;
+  }
+  .section2 .section5 {
+    border: 5px solid purple;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: space-evenly;
+    color: blue;
+    background-image: url("https://tse3.mm.bing.net/th?id=OIP.fRcj2VCwriUiwkckjWtluAHaEK&pid=Api&P=0&w=309&h=174");
+    font-weight: 700;
+    font-size: 15px;
+  }
+  .section2 .section5 .vs {
+    height: 15vh;
+    width: 20vh;
+    margin: o auto;
+  }
+  .section2 .section5 .broly {
+    height: 15vh;
+    width: 20vh;
+    margin: o auto;
+  }
+}
+@media (min-width: 768px) and (max-width: 1024px) {
+  .section {
+    background-image: url("https://tse3.mm.bing.net/th?id=OIP.fRcj2VCwriUiwkckjWtluAHaEK&pid=Api&P=0&w=309&h=174");
+  }
+
+  .username1 {
+    color: red;
+    float: left;
+    font-size: 6.9px;
+  }
+
+  .section1 {
+    border: 5px solid purple;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: space-evenly;
+    color: red;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url("https://tse3.mm.bing.net/th?id=OIP.fRcj2VCwriUiwkckjWtluAHaEK&pid=Api&P=0&w=309&h=174");
+    font-weight: 700;
+    columns: auto;
+  }
+  .section1 .tightrope {
+    height: 18.5vh;
+    width: 10vh;
+    margin: o auto;
+  }
+  .section1 .flores {
+    height: 18.5vh;
+    width: 10vh;
+    margin: o auto;
+  }
+
+  .section2 {
+    border: 5px solid purple;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: space-evenly;
+    color: red;
+    background-image: url("https://tse3.mm.bing.net/th?id=OIP.fRcj2VCwriUiwkckjWtluAHaEK&pid=Api&P=0&w=309&h=174");
+    font-weight: 700;
+    font-size: 15px;
+  }
+  .section2 .revenge {
+    height: 18.5vh;
+    width: 10vh;
+    margin: o auto;
+  }
+  .section2 .afraid {
+    height: 18.5vh;
+    width: 10vh;
+    margin: o auto;
+  }
+
+  .section3 {
+    border: 5px solid purple;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: space-evenly;
+    color: red;
+    background-image: url("https://tse3.mm.bing.net/th?id=OIP.fRcj2VCwriUiwkckjWtluAHaEK&pid=Api&P=0&w=309&h=174");
+    font-weight: 700;
+    font-size: 15px;
+  }
+  .section3 .angel {
+    height: 18.5vh;
+    width: 10vh;
+    margin: o auto;
+  }
+  .section3 .manikin {
+    height: 18.5vh;
+    width: 10vh;
+    margin: o auto;
+  }
+
+  .section4 {
+    border: 5px solid purple;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: space-evenly;
+    color: red;
+    background-image: url("https://tse3.mm.bing.net/th?id=OIP.fRcj2VCwriUiwkckjWtluAHaEK&pid=Api&P=0&w=309&h=174");
+    font-weight: 700;
+    font-size: 15px;
+  }
+  .section4 .stop {
+    height: 18.5vh;
+    width: 10vh;
+    margin: o auto;
+  }
+  .section4 .never {
+    height: 18.5vh;
+    width: 10vh;
+    margin: o auto;
+  }
+
+  .section5 {
+    border: 5px solid purple;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: space-evenly;
+    color: red;
+    background-image: url("https://tse3.mm.bing.net/th?id=OIP.fRcj2VCwriUiwkckjWtluAHaEK&pid=Api&P=0&w=309&h=174");
+    font-weight: 700;
+    font-size: 15px;
+  }
+  .section5 .vs {
+    height: 18.5vh;
+    width: 10vh;
+    margin: o auto;
+  }
+  .section5 .broly {
+    height: 18.5vh;
+    width: 10vh;
+    margin: o auto;
+  }
+}
+
+/*# sourceMappingURL=Songs.css.map */

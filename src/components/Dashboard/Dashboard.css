@@ -1,0 +1,73 @@
+.username {
+  float: left;
+  color: red;
+}
+
+.button3 {
+  float: right;
+  color: red;
+}
+
+.button4 {
+  float: right;
+  color: red;
+}
+
+.bluex {
+  height: 50vh;
+}
+
+.Body {
+  background-image: url("https://i1.sndcdn.com/artworks-000151617657-vg40w5-t500x500.jpg");
+  height: 100vh;
+}
+
+.text {
+  color: red;
+}
+
+@media (min-width: 375px) and (max-width: 812px) {
+  .username {
+    color: blue;
+  }
+
+  .button3 {
+    color: blue;
+  }
+
+  .button4 {
+    color: blue;
+  }
+
+  .bluex {
+    height: 25vh;
+  }
+
+  .text {
+    color: wheat;
+  }
+}
+@media (min-width: 768px) and (max-width: 1024px) {
+  .username {
+    color: green;
+  }
+
+  .button3 {
+    color: green;
+  }
+
+  .button4 {
+    color: green;
+  }
+
+  .bluex {
+    height: 50vh;
+  }
+
+  .text {
+    color: red;
+    font-size: 25px;
+  }
+}
+
+/*# sourceMappingURL=Dashboard.css.map */
