@@ -117,13 +117,13 @@ const Posts = props => {
     let [text, setText] = useState('');
 
 
-    useEffect(() => {
-        axios
-        .get(`/api/posts/${props.match.params.songid}`).then(res => {
-            setPosts(res.data);
-        })
-        .catch(err => console.log(err))
-    }, [])
+    // useEffect(() => {
+    //     axios
+    //     .get(`/api/posts/${props.match.params.songid}`).then(res => {
+    //         setPosts(res.data);
+    //     })
+    //     .catch(err => console.log(err))
+    // }, [props.match.params.songid])
 
     function createPost() {
 
