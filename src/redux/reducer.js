@@ -1,6 +1,5 @@
 const initialState = {
-    username: null,
-    id: null
+    user: {}
 }
 
 const GET_USER = 'GET_USER';
