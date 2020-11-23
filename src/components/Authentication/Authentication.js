@@ -101,7 +101,7 @@ const Authentication = props => {
         axios.post('/auth/register', { username, password })
         .then(res => {
             props.getUser(res.data);
-            props.history.push('/');
+            props.history.push('/dashboard');
         })
         .catch(err => console.log(err))
     }
